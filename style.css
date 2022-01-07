@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding-top: 10px;
+}
+.profile-pic{
+    width: 150px;
+    float: left;
+    border: aqua 1px solid;
+    border-radius: 50%;
+}
+
+.header-contact{ float: right;
+    padding: 20px;
+
+}
+.header-contact a{
+    text-decoration: none;
+}
+.header-contact a:hover{
+    background-color: brown;
+}
+
+.clear-div{
+    clear: both;
+}
+
+hr{
+    border: 4px rgb(110, 179, 41) solid;
+    margin: 5px;
+}
+
+
+main{
+
+}
+
+#personal-section{
+    margin: 15px;
+}
+#work-experince{
+    margin: 15px;
+}
+#Key-skill{
+    margin: 15px;
+}
+
+#Education-section{
+    margin: 15px;  
+}
+
+.first-part{
+    width: 45%;
+    float: left;
+}
+.second-part{
+    width: 45%;
+    float: left; 
+    margin-left: 20px;
+}
+.content{
+
+}
+.left-side{
+    width: 40%;
+    float: left;
+}
+.right-side{
+    width: 45%;
+    float: left;
+}
+.common-hr{
+    border: 1px rgb(236, 176, 13) solid;
+}
+
+footer{
+margin-top: 20px;
+height: 80px;
+background-color: black;
+color: blanchedalmond;
+text-align: center;
+
+}
+footer a{
+    padding-top: 20px;
+margin-left: 30px;
+ text-decoration: none;
+}
+footer p{
+    padding-top: 20px;
+}
+
+h1, h2, h3, h4, h5{
+    color: rgb(109, 165, 54);
+}
